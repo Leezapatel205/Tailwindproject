@@ -1,0 +1,1 @@
+Tailwind CSS is a utility-first CSS framework that provides low-level utility classes to build modern, responsive designs quickly. It allows for rapid development without writing custom CSS by composing styles directly in HTML. Tailwind is highly customizable, with features like theming, dark mode, and responsive variants. 
